@@ -1,0 +1,1 @@
+# Hackerrank-Solutions-Singleton-Pattern
